@@ -10,6 +10,7 @@
 - 📫 How to reach me **trentini.leonardo00@gmail.com**
 
 You can contact me also through my Linkedin page:
+
 <a href="https://www.linkedin.com/in/leonardo-trentini-35b3a020a/">
   <img align="left" alt="Leonardo's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
