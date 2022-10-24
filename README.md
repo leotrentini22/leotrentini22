@@ -4,10 +4,12 @@
 <hr/>
 <h4 align="center"></h4>
 
-- :dark_sunglasses: Studying Computational Science and Engineering at EPFL
+- :dark_sunglasses: Currently studying Computational Science and Engineering at EPFL
 - :mortar_board: BSc in Mathematical Engineering at Politecnico di Milano
 - :mountain_snow: Mountain lover
 - 📫 How to reach me **trentini.leonardo00@gmail.com**
+
+You can contact me also through my Linkedin page:
 <a href="https://www.linkedin.com/in/leonardo-trentini-35b3a020a/">
   <img align="left" alt="Leonardo's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
