@@ -6,14 +6,14 @@
 
 - :dark_sunglasses: Currently studying Computational Science and Engineering at EPFL
 - :mortar_board: BSc in Mathematical Engineering at Politecnico di Milano
-- :mountain_snow: Mountain lover
+- :abacus: Focus on computational methods, PDEs and Data Science
+- :mount_fuji: Mountain enthusiast and ski lover!
 
 <h3 align="left">Contacts:</h3>
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-trentini-35b3a020a/)
 - `trentini.leonardo00@gmail.com`
 
-<br>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"
