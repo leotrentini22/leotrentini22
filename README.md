@@ -11,7 +11,7 @@
 
 <h3 align="left">Contacts:</h3>
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/leonardo-trentini)
+- <a href="https://www.linkedin.com/in/leonardo-trentini/">![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)</a>
 - `trentini.leonardo00@gmail.com`
 
 
