@@ -6,7 +6,7 @@
 
 - :dark_sunglasses: Currently studying Computational Science and Engineering at EPFL
 - :mortar_board: BSc in Mathematical Engineering at Politecnico di Milano
-- :abacus: Focus on computational methods, PDEs and Data Science
+- :abacus: Focus on computational methods, PDEs and Machine Learning
 - :mount_fuji: Mountain enthusiast and ski lover!
 
 <h3 align="left">Contacts:</h3>
