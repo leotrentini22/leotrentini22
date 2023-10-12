@@ -4,9 +4,9 @@
 <hr/>
 <h4 align="center"></h4>
 
-- :dark_sunglasses: Currently studying Computational Science and Engineering at EPFL
+- :dark_sunglasses: Currently studying Computational Science and Engineering @ EPFL
 - :mortar_board: BSc in Mathematical Engineering at Politecnico di Milano
-- :abacus: Focus on computational methods, PDEs and Machine Learning
+- :abacus: Focus on Applied Mathematics, PDEs and Machine Learning
 - :mount_fuji: Mountain enthusiast and ski lover!
 
 <h3 align="left">Contacts:</h3>
